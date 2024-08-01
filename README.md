@@ -2,6 +2,8 @@
 
 Simple password generator - include symbols and/or numbers along with (default) alphabetical characters
 
+Demo: https://pwd-generator-app.vercel.app/
+
 ## Usage
 
 ```bash
