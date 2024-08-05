@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             Powered By {''}
             <span className="ml-[.1em]">
-              <a className="text-white" href="https://nuxt.com/">
+              <a className="text-white" target="_blank" href="https://nextjs.org/">
                 Next
               </a>
             </span>
